@@ -49,6 +49,10 @@
 | Tehdit İstihbaratı | MITRE ATT&CK, MISP Feeds |
 | Güvenlik Açığı Verileri | NVD, Exploit-DB |
 
+- (CICIDS 2017)[https://www.unb.ca/cic/datasets/ids-2017.html]
+- (UNSW-NB15)[https://research.unsw.edu.au/projects/unsw-nb15-dataset]
+- (HIKARI)[https://zenodo.org/records/5199540]
+- (ARCS Data Setleri)[https://csr.lanl.gov/data/]
 
 
 
