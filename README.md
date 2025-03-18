@@ -53,7 +53,8 @@
 - [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
 - [HIKARI](https://zenodo.org/records/5199540)
 - [ARCS Data Setleri](https://csr.lanl.gov/data/)
-
+- [BETH](https://www.kaggle.com/datasets/katehighnam/beth-dataset)
+- 
 
 
 
